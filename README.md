@@ -63,5 +63,3 @@ If something fails:
 - If GPS doesn't produce NMEA, double-check GPS RX/TX pins or swap RX/TX.
 - If LIS3DH is not detected, check I2C pins and pull-ups.
 
-If you want me to push to GitHub:
-- Create a private repo GT275TS/dragino-tracker-dls-arduino and give me access OR push these files yourself and invite me; then I can open PRs/fixups and iterate.
